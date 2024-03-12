@@ -17,8 +17,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.naive_bayes import GaussianNB
 
-# premierleagueplayers = pd.read_csv("C://Users//Garry//Documents//MSC Advanced Computer Science//Big data//Assignment 1"
-#                                    "//FPL_2018_19_Wk0.csv")
+# premierleagueplayers = pd.read_csv("Statistical Analysis of Fantasy Premier League\Data\FPL_2018_19_Wk7.csv")
 
 premierleagueplayers = pd.read_csv("Statistical Analysis of Fantasy Premier League\Data\FPL_2018_19_Wk7.csv")
 
